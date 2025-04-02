@@ -1,0 +1,30 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Node.js modules
+node_modules/
+
+# Jest or Mocha coverage and logs
+coverage/
+*.log
+*.xml
+*.json
+
+# Jest specific
+jest-test-results.json
+*.test.js.snap
+
+# Mocha specific
+*.mocha.js
+
+# Selenium WebDriver and browser-related files
+webdriver/
+
+# Screenshots folder but ignore its contents
+screenshots/*
+!screenshots/
