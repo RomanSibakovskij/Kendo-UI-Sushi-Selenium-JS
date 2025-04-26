@@ -3,13 +3,12 @@
 Simple Selenium test suite on basic shopping cart functionality (various single/multiple product addition to / removal from shopping cart/checkout) The test suite captures screenshots at the end of test case run (for logging purposes).
 
 #Tech Requirements:
- 1.Java JDK 8 or higher 
  
- 2.Node.js
+ 1.Node.js
 
- 3.Jest
+ 2.Jest
  
- 4.IntelliJ IDEA (or another IDE that supports Java and Maven)
+ 3.IntelliJ IDEA (or another IDE)
 
 #Setup
 
